@@ -5,6 +5,9 @@ include_directories(SYSTEM
 )
 
 # enum your files
-add_executable(executabl)
+add_executable(executabl
+    hello_world.cpp
+)
+
 
 target_link_libraries(executable)
