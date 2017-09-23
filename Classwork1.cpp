@@ -3,7 +3,7 @@
 
 
 
-int main() {
+int main1() {
 	double pi = 3.14;
 	int k = 0;
 	int n = 0;
