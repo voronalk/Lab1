@@ -5,7 +5,7 @@ include_directories(SYSTEM
 )
 
 # enum your files
-add_executable(executabl
+add_executable(executable
     hello_world.cpp
     Classwork1.cpp
 )
