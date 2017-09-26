@@ -1,9 +1,9 @@
-#include "stdafx.h"
 #include "targetver.h"
 #include <stdio.h>
 #include <tchar.h>
 #include <iostream>
 #include <math.h>
+#include <SDKDDKVer.h>
 
 int main() {
     double pi = 3.14;
@@ -69,4 +69,3 @@ int main() {
     std::cout << "L= " << R01*2*pi << std::endl;
     return 0;
 }
-
