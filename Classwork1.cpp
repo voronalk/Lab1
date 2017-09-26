@@ -1,7 +1,6 @@
+#include "stdafx.h"
 #include<iostream>  
 #include<math.h>
-
-
 
 int main() {
 	double pi = 3.14;
@@ -63,7 +62,7 @@ int main() {
 	double H = 0;
 	std::cout << "Enter A1, A2, H" << std::endl ;
 	std::cin >> A1 >> A2 >> H;
-	std::cout << "Result: " << (A1 + A2)*H*0.5 << std::endl;
+    std::cout << "Result: " << (A1 + A2)*H*0.5 << std::endl;
 	////////////////////////////////////////////////
 
 	double R1 = 0;
