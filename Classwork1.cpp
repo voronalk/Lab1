@@ -1,9 +1,7 @@
-#include "targetver.h"
 #include <stdio.h>
 #include <tchar.h>
 #include <iostream>
 #include <math.h>
-#include <SDKDDKVer.h>
 
 int main() {
     double pi = 3.14;
